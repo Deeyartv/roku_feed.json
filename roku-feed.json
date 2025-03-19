@@ -1,0 +1,73 @@
+{
+  "provider_name": "Deeyar TV",
+  "last_updated": "2025-03-14T12:00:00Z",
+  "language": "en",
+  "movies": [
+    {
+      "id": "deeyar_tv_live",
+      "title": "Deeyar TV Live",
+      "short_description": "Watch Deeyar TV’s latest news, politics, entertainment, and more.",
+      "long_description": "Deeyar TV provides 24/7 streaming of news, political discussions, cultural programs, entertainment, and music shows.",
+      "thumbnail": "https://raw.githubusercontent.com/Deeyar-tv/Logo/main/DeeyarTV_1920x1080_.jpg",
+      "release_date": "2025-03-14",
+      "genres": [
+        "News",
+        "Politics",
+        "Social",
+        "Cultural",
+        "Educational",
+        "Entertainment",
+        "Music",
+        "Cooking"
+      ],
+      "rating": {
+        "rating": "TV-G",
+        "rating_source": "USA"
+      },
+      "availability": {
+        "start": "2025-03-14T00:00:00Z",
+        "end": "2030-12-31T23:59:59Z"
+      },
+      "runtime": 0,
+      "content": {
+        "videos": [
+          {
+            "url": "https://59d39900ebfb8.streamlock.net/viet-sports/viet-sports/playlist.m3u8",
+            "quality": "HD",
+            "video_type": "HLS"
+          }
+        ]
+      },
+      "free": true,
+      "tvod": false,
+      "svod": false,
+      "is_live": true,
+      "tags": [
+        "News",
+        "Live",
+        "Afghanistan"
+      ]
+    }
+  ],
+  "series": [],
+  "additional_feeds": [
+    {
+      "id": "roku_feed_ds",
+      "title": "Deeyar TV Additional Feed",
+      "feed_url": "https://raw.githubusercontent.com/Deeyar-tv/main/dtv_feed.json"
+    }
+  ],
+  "contact_info": {
+    "email": "info@deeyar.tv",
+    "phone": "+15408007888",
+    "website": "https://deeyar.tv",
+    "telegram": "https://t.me/DeeyarTV",
+    "whatsapp": "https://wa.me/15408007888"
+  },
+  "social_media": {
+    "facebook": "https://facebook.com/DeeyarTV",
+    "instagram": "https://instagram.com/DeeyarTV",
+    "youtube": "https://youtube.com/DeeyarTV",
+    "twitter": "https://x.com/DeeyarTV"
+  }
+}
